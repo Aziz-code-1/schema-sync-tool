@@ -32,5 +32,5 @@
 2. Запустить SQL скрипт compare_schemas.sql
 3. Получить таблицу различий
 
-## 👨‍💻 Автор
+## Улыкпанов Азизбек
 Junior Data Analyst SQL Project
